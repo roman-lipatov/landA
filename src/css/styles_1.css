@@ -183,7 +183,7 @@ input[value="Получить бесплатно"]:active {
   position: absolute;
   width: 30px;
   height: 30px;
-  background-image: url(../fonts/cross_1.svg);
+  /* background-image: url(../fonts/cross_1.svg); */
   background-size: 100% auto;
   top: -40px;
   border-radius: 50%;

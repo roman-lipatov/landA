@@ -503,7 +503,7 @@ img {
   content: "";
   width: 95px;
   height: 84px;
-  background: url(../img/emblem.png) 0 0 no-repeat;
+  /* background: url(../img/emblem.png) 0 0 no-repeat; */
   top: 0;
   left: 0
 }
@@ -1002,7 +1002,6 @@ img {
   font-size: 16px;
   line-height: 20px;
   color: #818181;
-  
   font-weight: 400
 }
 
@@ -1010,7 +1009,7 @@ img {
   content: "";
   width: 95px;
   height: 84px;
-  background: url(../img/emblem.png) 0 0 no-repeat;
+  /* background: url(../img/emblem.png) 0 0 no-repeat; */
   top: 0;
   left: 0
 }
