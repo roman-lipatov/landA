@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Блок з колесом вставлений і функціонує.
+Валідація номера встановлена, номер має починатися з +38, довжина номера 13 символів.
+Панель зліва - ввімкнув відображення 4 елемента списку, прибрав вилізання тексту, розмістив елементи по середині для кожного елемента списку.
+Підправив деякі слова у варіантах відповіді, інколи одне слово повністю було написано з великих літер, а інше ні.
